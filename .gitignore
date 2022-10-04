@@ -1,0 +1,7 @@
+//que archivos no quieren que esten pendientes de los cambios 
+
+node_modules/
+
+dist/
+
+
